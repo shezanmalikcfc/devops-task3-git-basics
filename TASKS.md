@@ -6,3 +6,4 @@
 - Made changes via feature branch and merged through PRs  
 - Used .gitignore and created a tag  
 - Documented steps in Markdown
+Added PR and tag details.
